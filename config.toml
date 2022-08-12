@@ -1,0 +1,4 @@
+baseURL = 'https://aurora-opencloud.org/'
+languageCode = 'en-us'
+title = 'Aurora OpenCloud Products and Services'
+theme = 'opencloud'
